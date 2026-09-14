@@ -38,7 +38,7 @@ An interactive executive dashboard was built in **Tableau** to monitor outpatien
 
 ### Key Architectural Features:
 * **Executive KPI Banner:** Immediate visibility into total kept appointments (2,284), total DNAs (307), overall DNA rate (13.4%), and peak risk departments.
-* **Dynamic Chart Switcher:** Parameter-driven views allowing stakeholders to slice DNA patterns by department, demographics, and temporal factors.
+* **Dynamic Chart Switcher:** Parameter-driven views allowing stakeholders to seamlessly toggle the main visualization between **Department**, **Lead Time**, **Age Group**, **Deprivation**, **DNA History**, and **Reminder Status**.
 * **Integrated Business Narrative:** Built-in contextual insight panels detailing root causes and proposed institutional fixes (e.g., automated SMS reminders for long lead times).
 
 ### Summary of Key Findings:
