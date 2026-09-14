@@ -7,7 +7,7 @@ An end-to-end data analytics project evaluating NHS patient DNA (Did Not Attend)
 Outpatient non-attendance creates severe clinical backlogs, inefficient resource utilization, and extended waiting lists across the National Health Service (NHS). The primary objectives of this project are:
 * **Quantify Non-Attendance:** Establish baseline metrics for overall DNA rates against national benchmarks.
 * **Identify High-Risk Segments:** Isolate demographic, temporal, and clinical factors contributing to missed appointments.
-* **Evaluate Interventions:** Measure the quantifiable impact of SMS/phone appointment reminders on patient attendance.
+* **Evaluate Interventions:** Uncover and measure diverse intervention pathways, including communication compliance, waitlist management, socio-economic support structures, and demographic-specific outreach.
 
 ---
 
