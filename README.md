@@ -30,6 +30,28 @@ Data preprocessing and transformation were handled using **Power Query** to ensu
 
 ---
 
+## 📊 Tableau Executive Dashboard & Insights
+
+An interactive executive dashboard was built in **Tableau** to monitor outpatient non-attendance patterns, benchmark performance against national standards, and deliver actionable operational recommendations.
+
+![Dashboard Preview](assets/dashboard_preview.png) *(Note: Replace with your actual image path if hosted in your repo)*
+
+### Key Architectural Features:
+* **Executive KPI Banner:** Immediate visibility into total kept appointments (2,284), total DNAs (307), overall DNA rate (13.4%), and peak risk departments.
+* **Dynamic Chart Switcher:** Parameter-driven views allowing stakeholders to slice DNA patterns by department, demographics, and temporal factors.
+* **Integrated Business Narrative:** Built-in contextual insight panels detailing root causes and proposed institutional fixes (e.g., automated SMS reminders for long lead times).
+
+### Summary of Key Findings:
+* **National Benchmark Gap:** The current DNA rate of **13.4%** significantly exceeds the 7.6% national target (+5.8% gap).
+* **Peak Risk Segments:**
+  * **Lead Time:** Appointments booked **61+ days** in advance suffer the highest non-attendance (24.5%).
+  * **Department:** **Physiotherapy** exhibits the highest departmental DNA rate at 17.2%.
+  * **Communication:** Failing to send appointment reminders spikes DNA rates to **23.7%**.
+  * **Demographics:** Younger cohorts (**18–29 years**, 18.3%) and the most deprived socio-economic brackets (**Deciles 1–3**, 19.3%) present the highest risk profiles.
+  * **History:** Patients with prior DNA records are substantially more likely to miss future appointments (23.2%).
+
+---
+
 ## 📁 Repository Structure
 
 To maintain a strict audit trail and separate source data from transformed assets, the project is organized into the following directory structure:
