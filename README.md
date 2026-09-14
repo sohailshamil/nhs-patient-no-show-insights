@@ -61,11 +61,17 @@ To maintain a strict audit trail and separate source data from transformed asset
 ```text
 nhs-patient-no-show-insights/
 │
+├── assets/
+│   └── nhs_dashboard_preview.png           # Dashboard preview image for README
+│
 ├── data/
 │   ├── raw/
-│   │   └── nhs_outpatient_appointments.csv     # Original, unedited source dataset
+│   │   └── nhs_outpatient_appointments.csv # Original, unedited source dataset
 │   └── processed/
 │       └── nhs_outpatient_appointments_cleaned.xlsx # Fully cleaned, transformed, and analyzed workbook
+│
+├── docs/
+│   └── nhs_dna_brief.pptx                  # Introductory project brief presentation
 │
 ├── LICENSE
 └── README.md
