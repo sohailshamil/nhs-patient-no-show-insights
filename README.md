@@ -34,7 +34,7 @@ Data preprocessing and transformation were handled using **Power Query** to ensu
 
 An interactive executive dashboard was built in **Tableau** to monitor outpatient non-attendance patterns, benchmark performance against national standards, and deliver actionable operational recommendations.
 
-![Dashboard Preview](assets/dashboard_preview.png) *(Note: Replace with your actual image path if hosted in your repo)*
+![Dashboard Preview](assets/nhs_dashboard_preview.png) *(Note: Replace with your actual image path if hosted in your repo)*
 
 ### Key Architectural Features:
 * **Executive KPI Banner:** Immediate visibility into total kept appointments (2,284), total DNAs (307), overall DNA rate (13.4%), and peak risk departments.
